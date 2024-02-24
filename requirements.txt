@@ -1,0 +1,8 @@
+numpy 
+pandas~=2.2.0
+streamlit~=1.31.1
+scikit-learn
+matplotlib~=3.8.3
+django-emoji~=2.2.2
+seaborn~=0.13.2
+urlextract~=1.8.0
